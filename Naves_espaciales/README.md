@@ -233,4 +233,4 @@ ALTER TABLE Habita ADD CONSTRAINT Nombre_Raza FOREIGN KEY (Nombre_Raza)
 
 - **El código final está modificado, por lo que algunas imágenes muetran diferencias en la ejecución respecto al código.**
 - **VARCHAR y CHAR se utilizan indiferentemente. Se podría utilizar CHAR como tipo de datos para las cadenas, pero para ver la variedad en los tipos se ha optado por utilzar ambos.**
-- **[Gist con el código completo modificado](https://gist.github.com/Jul10-S/c6c4be5e6978fdfc14941ab79a81ce2b)**
+- **[Gist con el código completo modificado](https://gist.github.com/juliospau/c6c4be5e6978fdfc14941ab79a81ce2b)**
