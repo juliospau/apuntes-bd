@@ -253,5 +253,5 @@ ALTER TABLE Financiación ADD CONSTRAINT Unicidad_Asociado UNIQUE(Número_Asocia
 
 ---
 
-- [Gist con el código completo modificado](https://gist.github.com/Jul10-S/132d8fba1c4cad887d45dbbcce9a501a)
+- [Gist con el código completo modificado](https://gist.github.com/juliospau/132d8fba1c4cad887d45dbbcce9a501a)
 
